@@ -40,8 +40,8 @@
 
 | 角色 | 技能 | 一句话 | GitHub |
 |------|------|--------|--------|
-| **🧬 女娲 (Nuwa)** | 从 0 到 1 **创造**技能 | 「帮我做个研究XX的skill」→ 自动调研、蒸馏、生成完整 SKILL.md | 即将开源 |
-| **🧬 达尔文 (Darwin)** | 让已有技能**进化** | 「这个skill质量怎么样」→ 9 维评分、出优化方案、迭代进化 | 即将开源 |
+| **🧬 女娲 (Nuwa)** | 从 0 到 1 **创造**技能 | 「帮我做个研究XX的skill」→ 自动调研、蒸馏、生成完整 SKILL.md | [查看](https://github.com/xxx/nuwa) |
+| **🧬 达尔文 (Darwin)** | 让已有技能**进化** | 「这个skill质量怎么样」→ 9 维评分、出优化方案、迭代进化 | [查看](https://github.com/xxx/darwin) |
 | **🧠 统筹 (Tongchou)** | **编排**所有技能完成目标 | 「一条龙搞定XX」→ 分析需求 → 匹配技能 → 编排流程 → 交付结果 | ✅ **本仓库** |
 
 **三者合体 = 你的 Agent 拥有自我进化、自我组织的超能力。** 不用你教它，它自己会学、自己会进化、自己会编排。
@@ -270,8 +270,8 @@ tongchou/
 | 项目 | 关系 | GitHub |
 |------|------|--------|
 | **🕷️ Crawler Stack v5** | 爬虫能力由它提供，统筹编排爬虫任务 | [xianjianhuang/crawler-stack](https://github.com/xianjianhuang/crawler-stack) |
-| **🧬 女娲 (Nuwa)** | 统筹发现需要造 skill → 转交女娲 | 即将开源 |
-| **🧬 达尔文 (Darwin)** | 统筹发现 skill 质量低 → 转交达尔文进化 | 即将开源 |
+| **🧬 女娲 (Nuwa)** | 统筹发现需要造 skill → 转交女娲 | [查看](https://github.com/xxx/nuwa) |
+| **🧬 达尔文 (Darwin)** | 统筹发现 skill 质量低 → 转交达尔文进化 | [查看](https://github.com/xxx/darwin) |
 | **🤖 Hermes Agent** | 统筹运行在 Hermes 上，是它的技能系统 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) |
 
 ---
